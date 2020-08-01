@@ -1,6 +1,6 @@
-### Welcome to my profile! 👋
+# Welcome to my profile! 👋
 
-# About me:
+## About me:
 - 🔭 I’m currently working on: My portfolio and my ASP.NET Web application projects
 - 🌱 I’m currently learning: How to develop web applications using the ASP.NET Core technology
 - 💬 Ask me about: Anything
