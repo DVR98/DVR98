@@ -1,7 +1,7 @@
 # Welcome to my profile! 👋
 
 - 🔭 I’m currently working on: 
--[x] My portfolio, 
+- [x] this is a complete item, 
 -[] Updating my college projects to meet professional and modern standards, 
 -[] Passion and exercise ASP.NET Core Web application projects
 - 🌱 I’m currently learning: ASP.NET Core
