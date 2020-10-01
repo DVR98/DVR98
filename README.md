@@ -1,4 +1,4 @@
-# Welcome to my profile! 👋
+# Welcome to my profile!
 
 - 🔭 I’m currently working on: 
   - [x] Portfolio website
