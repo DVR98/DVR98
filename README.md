@@ -7,4 +7,3 @@
 - 🌱 I’m currently learning: ASP.NET Core
 - 💬 Ask me about: Anything
 - 📫 How to reach me: durantvr16@gmail.com
-- ⚡ Fun fact: The man who founded Atari also started Chuck E. Cheese.
