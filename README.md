@@ -1,4 +1,4 @@
-<h1 style="display: flex; justify-self: center;">DVR98</h1>
+<h1 style="position: relative; Margin: 0 auto;">DVR98</h1>
 
 - 🔭 I’m currently working on: 
   - [x] Mooi Nails & Co. Website
