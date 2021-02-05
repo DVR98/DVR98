@@ -1,6 +1,6 @@
 📫 How to reach me: durantvr16@gmail.com
 
-- 🔭 I’m currently working on: 
+- 🔭 Completion of my Tasks: 
   - [x] Mooi Nails & Co. Website
   - [ ] VR Construction Website
   - [ ] New Portfolio Website
