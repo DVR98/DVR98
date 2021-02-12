@@ -1,6 +1,6 @@
 📫 How to reach me: durantvr16@gmail.com
 
-<h4>Tasks:</h4> 
+## Tasks: 
   - [x] Mooi Nails & Co. Website
   - [ ] VR Construction Website
   - [ ] New Portfolio Website
