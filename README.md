@@ -3,6 +3,6 @@
   - [ ] VR Construction Website
   - [ ] New Portfolio Website
   - [ ] Github Repository Projects
-</hr>
+
 ## 📫 How to reach me
 durantvr16@gmail.com
