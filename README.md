@@ -7,7 +7,7 @@
 ## Frameworks and Libraries:
 1) .NET Framework
 2) .NET Core 
-3) ASP.NET MVC/Web API 
+3) ASP.NET MVC and Web API 
 4) Universal Windows Platform(UWP) 
 5) Ruby On Rails 
 6) jQuery 
