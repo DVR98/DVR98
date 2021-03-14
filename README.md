@@ -21,8 +21,8 @@
 
 ## Tasks: 
   - [x] Mooi Nails & Co. Website
-  - [ ] New Portfolio Website
   - [ ] Github Repository Projects
+  - [ ] New Portfolio Website
 
 ## How to reach me
 durantvr16@gmail.com
