@@ -13,7 +13,7 @@
 6) jQuery 
 7) Bootstrap
 
-## IDE's and Code-Editors :
+## IDE's and Code-Editors:
 1) Visual Studio 2017 and 2019
 2) Visual Studio Code
 3) SQL Server Management Studio(SSMS) 
