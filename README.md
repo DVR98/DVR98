@@ -14,7 +14,7 @@
 7) Bootstrap
 
 ## IDE's and Code-Editors:
-1) Visual Studio 2017 and 2019
+1) Visual Studio 2017, 2019 and 2022
 2) Visual Studio Code
 3) SQL Server Management Studio(SSMS) 
 4) MySQL Workbench 
