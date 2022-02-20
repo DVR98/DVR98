@@ -7,11 +7,12 @@
 ## Frameworks and Libraries:
 1) .NET Framework
 2) .NET Core 
-3) ASP.NET MVC and Web API 
-4) Universal Windows Platform(UWP) 
-5) Ruby On Rails 
-6) jQuery 
-7) Bootstrap
+3) .NET 6
+4) ASP.NET MVC and Web API 
+5) Universal Windows Platform(UWP) 
+6) Ruby On Rails 
+7) jQuery 
+8) Bootstrap
 
 ## IDE's and Code-Editors:
 1) Visual Studio 2017, 2019 and 2022
